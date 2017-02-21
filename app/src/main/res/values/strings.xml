@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Test_example_Git</string>
+    <string name="Hello_World">Hello From the DragonBoard!</string>
 </resources>
